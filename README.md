@@ -37,6 +37,8 @@
 ##### Time Elapsed: 263 seconds
 ##### Estimate: 8388608.0
 ### Running on GCP:
+##### Bucket Size: 100
+##### Trials: 50
 ##### Time Elapsed: 318 seconds 
 ##### Estimate: 7471104.0
 
